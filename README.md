@@ -1,5 +1,6 @@
 # ETC_5510_Assignment1
 Individual Assignment
+
 This assignment is designed to simulate a scenario in which you are taking over someone’s existing work and continuing with it to draw some further insights.
 
 This is a real world dataset taken from the New South Wales Bureau of Crime Statistics and Research. The data can be found here at https://www.bocsar.nsw.gov.au/Documents/Datasets/SuburbData.zip. Specifically, the data file called “SuburbData2019csv” located in your data folder inside the RStudio project will be used for this assignment.
